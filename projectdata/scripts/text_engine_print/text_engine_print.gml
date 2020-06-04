@@ -5,7 +5,7 @@
 
 //GitHub version
 
-//Replace "LAYERNAME" with the layer that you want the text to appear on
+//Replace "Instances" with the layer that you want the text to appear on
 textEngine = instance_create_layer(argument2,argument3,"Instances",obj_RPGTextEngine);
 
 textEngine.toprint = argument0;
